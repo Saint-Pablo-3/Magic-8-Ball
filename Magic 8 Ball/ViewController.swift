@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         label.textColor = .white
         return label
     }()
-    
+//    
 //      create an internal answering label
     var intLabel: UILabel = {
         let label = UILabel()
